@@ -1,0 +1,21 @@
+{
+  "name": "mr-red",
+  "displayName": "Mr Red",
+  "description": "MR RED",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mr Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mr Red-color-theme.json"
+      }
+    ]
+  }
+}
